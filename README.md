@@ -43,6 +43,9 @@ Este projeto é uma portagem em Rust e aprimoramento das implementações matem�
 
 * **Matemática:** Matrizes de Rotação 3D (Yaw, Pitch, Roll) projetadas para 2D.
 
+## 🖼️ Preview
+
+<img src="https://github.com/user-attachments/assets/9f45e44f-662a-4c16-b643-d3ff6226b2e8" width="300" />
 
 
 ## 📝 Licença
