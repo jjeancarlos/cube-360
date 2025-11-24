@@ -47,6 +47,13 @@ Este projeto é uma portagem em Rust e aprimoramento das implementações matem�
 
 <img src="https://github.com/user-attachments/assets/9f45e44f-662a-4c16-b643-d3ff6226b2e8" width="300" />
 
+## 🌐 **Futuras versões**
+
+* [ ] compilação WebAssembly para rodar no navegador
+* [ ] Interface interativa no terminal
+* [ ] Seleção de modos de render (wireframe, sólido, neon)
+* [ ] Escolha de tamanho do cubo e resolução
+
 
 ## 📝 Licença
 
